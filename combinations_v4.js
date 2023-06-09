@@ -2,7 +2,7 @@ const getSong = (stepsArray) => {
   const stepsMix = stepsArray.toString()
   const songList = {
     "retail,foot-traffic,slow": {
-      "songUrl": "https://p.scdn.co/mp3-preview/fc662ffa82300f0d99ab1bd9dff38273bb71e71a",
+      "songUrl": "https://media.brandtrack.fm/web/86.mp3",
       "artist": "Corinne Bailey Rae",
       "title": "Put Your Records On",
       "genre": "Soul",
@@ -12,7 +12,7 @@ const getSong = (stepsArray) => {
       "energy": 51.1
     },
     "retail,foot-traffic,moderate": {
-      "songUrl": "https://p.scdn.co/mp3-preview/a42d5e9f6f5c3375db9723bb2356239351eead31",
+      "songUrl": "https://media.brandtrack.fm/web/60023.mp3",
       "artist": "Adore You - Harry Styles",
       "title": "Adore You",
       "genre": "Pop",
@@ -22,7 +22,7 @@ const getSong = (stepsArray) => {
       "energy": 77.1
     },
     "retail,foot-traffic,faster": {
-      "songUrl": "https://p.scdn.co/mp3-preview/2494e1f152f8984226c6a4207346d90db548da42",
+      "songUrl": "https://media.brandtrack.fm/web/116405.mp3",
       "artist": "Avicii",
       "title": "Wake Me Up (Radio Edit)",
       "genre": "Pop Dance / EDM",
@@ -32,7 +32,7 @@ const getSong = (stepsArray) => {
       "energy": 77.5
     },
     "hotel,weather,raining": {
-      "songUrl": "https://p.scdn.co/mp3-preview/e740001442baf69bdfdc01e21d86ddd7ceb2ac94",
+      "songUrl": "https://media.brandtrack.fm/web/109017.mp3",
       "artist": "The North Sea Trio",
       "title": "Imagination",
       "genre": "Chill Jazz",
@@ -42,7 +42,7 @@ const getSong = (stepsArray) => {
       "energy": 17.5
     },
     "hotel,weather,cloudy": {
-      "songUrl": "https://p.scdn.co/mp3-preview/407b29d20b81d42c89570db94711c26b2c63712a",
+      "songUrl": "https://media.brandtrack.fm/web/109138.mp3",
       "artist": "Brian Simpson",
       "title": "Moonlit Ocean",
       "genre": "Chill Jazz",
@@ -52,7 +52,7 @@ const getSong = (stepsArray) => {
       "energy": 57.4
     },
     "hotel,weather,sunny": {
-      "songUrl": "https://p.scdn.co/mp3-preview/6a4675e989b0413d5bf33c5a3387330105219201",
+      "songUrl": "https://media.brandtrack.fm/web/109376.mp3",
       "artist": "Zachary Breaux",
       "title": "Cafe Reggio",
       "genre": "Chill Jazz",
@@ -62,7 +62,7 @@ const getSong = (stepsArray) => {
       "energy": 66
     },
     "restaurant,consumer-rotation,low": {
-      "songUrl": "https://p.scdn.co/mp3-preview/c40e2bbe83e0e35b0dec944aec41212a4da75692",
+      "songUrl": "https://media.brandtrack.fm/web/7482.mp3",
       "artist": "Groove Da Praia",
       "title": "Is This Love",
       "genre": "Bossa Nova",
@@ -72,7 +72,7 @@ const getSong = (stepsArray) => {
       "energy": 48.7
     },
     "restaurant,consumer-rotation,mid": {
-      "songUrl": "https://p.scdn.co/mp3-preview/869b47099e7777663bad4aa224e8e48f95c187ed",
+      "songUrl": "https://media.brandtrack.fm/web/109211.mp3",
       "artist": "Four80East",
       "title": "Cookie Strut",
       "genre": "Chill Jazz",
@@ -82,7 +82,7 @@ const getSong = (stepsArray) => {
       "energy": 66
     },
     "restaurant,consumer-rotation,high": {
-      "songUrl": "https://p.scdn.co/mp3-preview/cb53c587272e0148b8b1791749e6bf99a95bbd76",
+      "songUrl": "https://media.brandtrack.fm/web/50435.mp3",
       "artist": "Jafunk",
       "title": "Dazed",
       "genre": "Deep House / Nu Disco",
@@ -92,7 +92,7 @@ const getSong = (stepsArray) => {
       "energy": 62.8
     },
     "other,foot-traffic,slow": {
-      "songUrl": "https://p.scdn.co/mp3-preview/2eed95a3c08cd10669768ce60d1140f85ba8b951",
+      "songUrl": "https://media.brandtrack.fm/web/100866.mp3",
       "artist": "James Arthur",
       "title": "Say You Won't Let Go",
       "genre": "Pop",
@@ -102,7 +102,7 @@ const getSong = (stepsArray) => {
       "energy": 60.3
     },
     "other,foot-traffic,moderate": {
-      "songUrl": "https://p.scdn.co/mp3-preview/0666d3aff1443bbec65d688122fb77d2fe39fb25",
+      "songUrl": "https://media.brandtrack.fm/web/107416.mp3",
       "artist": "Clobie Caillat",
       "title": "Fallin' For You",
       "genre": "Pop",
@@ -112,7 +112,7 @@ const getSong = (stepsArray) => {
       "energy": 79.4
     },
     "other,foot-traffic,faster": {
-      "songUrl": "https://p.scdn.co/mp3-preview/5a0318e6c43964786d22b9431af35490e96cff3d",
+      "songUrl": "https://media.brandtrack.fm/web/107643.mp3",
       "artist": "Bruno Mars",
       "title": "Locked Out Of Heaven",
       "genre": "Pop / Pop Rock",
