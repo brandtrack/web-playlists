@@ -1,7 +1,7 @@
 const getSong = (stepsArray) => {
   const stepsMix = stepsArray.toString()
   const songList = {
-    "retail,foot-traffic,slow": {
+    "retail,foot-traffic,low": {
       "songUrl": "https://media.brandtrack.fm/web/86.mp3",
       "artist": "Corinne Bailey Rae",
       "title": "Put Your Records On",
@@ -11,7 +11,7 @@ const getSong = (stepsArray) => {
       "danceability": 73.9,
       "energy": 51.1
     },
-    "retail,foot-traffic,moderate": {
+    "retail,foot-traffic,mid": {
       "songUrl": "https://media.brandtrack.fm/web/60023.mp3",
       "artist": "Adore You - Harry Styles",
       "title": "Adore You",
@@ -21,7 +21,7 @@ const getSong = (stepsArray) => {
       "danceability": 67.6,
       "energy": 77.1
     },
-    "retail,foot-traffic,faster": {
+    "retail,foot-traffic,high": {
       "songUrl": "https://media.brandtrack.fm/web/116405.mp3",
       "artist": "Avicii",
       "title": "Wake Me Up (Radio Edit)",
@@ -61,7 +61,7 @@ const getSong = (stepsArray) => {
       "danceability": 74.4,
       "energy": 66
     },
-    "restaurant,consumer-rotation,low": {
+    "restaurant,consumer-rotation,slow": {
       "songUrl": "https://media.brandtrack.fm/web/7482.mp3",
       "artist": "Groove Da Praia",
       "title": "Is This Love",
@@ -71,7 +71,7 @@ const getSong = (stepsArray) => {
       "danceability": 92.4,
       "energy": 48.7
     },
-    "restaurant,consumer-rotation,mid": {
+    "restaurant,consumer-rotation,moderate": {
       "songUrl": "https://media.brandtrack.fm/web/109211.mp3",
       "artist": "Four80East",
       "title": "Cookie Strut",
@@ -81,7 +81,7 @@ const getSong = (stepsArray) => {
       "danceability": 73.5,
       "energy": 66
     },
-    "restaurant,consumer-rotation,high": {
+    "restaurant,consumer-rotation,fast": {
       "songUrl": "https://media.brandtrack.fm/web/50435.mp3",
       "artist": "Jafunk",
       "title": "Dazed",
@@ -91,7 +91,7 @@ const getSong = (stepsArray) => {
       "danceability": 85.7,
       "energy": 62.8
     },
-    "other,foot-traffic,slow": {
+    "other,foot-traffic,low": {
       "songUrl": "https://media.brandtrack.fm/web/100866.mp3",
       "artist": "James Arthur",
       "title": "Say You Won't Let Go",
@@ -101,7 +101,7 @@ const getSong = (stepsArray) => {
       "danceability": 37.5,
       "energy": 60.3
     },
-    "other,foot-traffic,moderate": {
+    "other,foot-traffic,mid": {
       "songUrl": "https://media.brandtrack.fm/web/107416.mp3",
       "artist": "Clobie Caillat",
       "title": "Fallin' For You",
@@ -111,7 +111,7 @@ const getSong = (stepsArray) => {
       "danceability": 64,
       "energy": 79.4
     },
-    "other,foot-traffic,faster": {
+    "other,foot-traffic,high": {
       "songUrl": "https://media.brandtrack.fm/web/107643.mp3",
       "artist": "Bruno Mars",
       "title": "Locked Out Of Heaven",
