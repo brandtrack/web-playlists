@@ -81,7 +81,7 @@ const getSong = (stepsArray) => {
       "danceability": 73.5,
       "energy": 66
     },
-    "restaurant,consumer-rotation,fast": {
+    "restaurant,consumer-rotation,faster": {
       "songUrl": "https://media.brandtrack.fm/web/50435.mp3",
       "artist": "Jafunk",
       "title": "Dazed",
